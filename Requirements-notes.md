@@ -1,7 +1,5 @@
 #
 
-
-
 ## Track
 - customers
 - rooms
@@ -29,4 +27,4 @@
         - price (per serving)
         - description
     - services
-    
+
