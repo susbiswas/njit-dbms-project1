@@ -3,11 +3,12 @@
 ## Track
 - customers
 - rooms
+    - room number (PK)
     - occupancy count
     - type of room (single, double, etc)
     - floor number
     - description
-    - room number (PK)
+
     - price (TBD as "discounts" and specials)
 - room discount
     - percent of normal price
